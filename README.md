@@ -1,7 +1,14 @@
 # ☄️ Shahab Project: Real-Time AI model "fastest for ideal MVP"
 
+
+MVP : https://shehab-auto-claim.lovable.app/
+
+
 **Leveraging Edge AI for rapid, privacy-first image detection directly in the browser.**
 
+
+---
+app : https://github.com/Layan-Atta/shehab-auto-claim
 ---
 
 ## 🚀 Why This Architecture? (The Hackathon Strategy)
